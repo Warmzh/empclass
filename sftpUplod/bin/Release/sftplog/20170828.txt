@@ -1,0 +1,110 @@
+08:24:43:2853529 Open Auto======================
+08:24:44:2290305 -->Query 152EmpSum:12731
+08:24:50:3906934 -->SelectSqlServerSum:41793
+08:24:55:2485344 -->insert152_EmpClassOK: 
+2017/8/28 8:25:10 2017/8/28 8:25:10-->Query 153 Error:Unable to connect to any of the specified MySQL hosts.
+08:25:10:3070717 -->Query 153EmpError
+08:31:41:1479565 Open Auto======================
+08:31:41:4331625 -->Query 152EmpSum:12731
+08:31:43:9729503 -->SelectSqlServerSum:41793
+08:31:51:5207693 -->insert152_EmpClassOK: 
+08:34:18:7233331 Open Auto======================
+08:34:44:7263219 -->Query 152EmpSum:12731
+08:35:24:7451444 -->SelectSqlServerSum:41793
+08:35:52:4066120 Open Auto======================
+08:35:56:5220106 -->Query 152EmpSum:12731
+08:36:39:0681969 Open Auto======================
+08:36:50:8570985 Open Auto======================
+08:37:00:1301798 -->Query 152EmpSum:12731
+08:40:16:0214830 -->SelectSqlServerSum:41793
+08:42:34:4217356 Open Auto======================
+08:42:37:7307040 -->Query 152EmpSum:12731
+08:43:22:3232109 Open Auto======================
+08:43:22:5828186 -->Query 152EmpSum:12731
+08:43:25:1470198 -->SelectSqlServerSum:41793
+08:43:34:7873806 -->insert152_EmpClassOK: 
+08:43:34:8516974 -->Query 153EmpSum:7449
+08:43:37:1755446 -->SelectSqlServerSum:16393
+08:43:39:4227332 -->insert153_EmpClassOK: 
+14:39:58:1733072 Open Auto======================
+15:00:03:9468392 01:00 InsertMySQL，10:00 InsertProgress
+15:00:12:9232462 Pause Read...
+15:00:13:5553967 01:00 InsertMySQL，10:00 InsertProgress
+15:00:16:4526340 Pause Read...
+15:00:16:8671736 01:00 InsertMySQL，10:00 InsertProgress
+15:00:17:1151994 Pause Read...
+15:00:17:3236795 01:00 InsertMySQL，10:00 InsertProgress
+15:00:17:6436807 Pause Read...
+15:00:17:8446747 01:00 InsertMySQL，10:00 InsertProgress
+15:00:18:2672721 Pause Read...
+15:01:14:5052754 01:00 InsertMySQL，10:00 InsertProgress
+15:02:13:5769606 Open Auto======================
+15:02:22:8789906 -->Query 152EmpSum:12749
+15:02:29:4296687 -->SelectSqlServerSum:41833
+15:02:41:5509077 -->insert152_EmpClassOK: 
+15:02:50:6514459 -->Query 153EmpSum:7479
+15:02:52:9293746 -->SelectSqlServerSum:16405
+15:02:55:4421093 -->insert153_EmpClassOK: 
+15:03:50:4479227 01s:00 InsertMySQL，10:00 InsertProgress
+15:04:40:4508628 Pause Read...
+15:06:27:4583210 Open Auto======================
+15:06:29:0111769 01s:00 InsertMySQL，10:00 InsertProgress
+15:10:18:1298781 -->Query 152EmpSum:12749
+15:10:21:1800612 -->SelectSqlServerSum:41833
+15:10:30:8343507 -->insert152_EmpClassOK: 
+15:10:39:9338786 -->Query 153EmpSum:7479
+15:10:41:0861241 -->SelectSqlServerSum:16405
+15:10:44:6095970 -->insert153_EmpClassOK: 
+2017/8/28 15:10:46 2017/8/28 15:10:46-->Query Progress Error:ERROR [HY000] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Access denied (Authorisation failed) (7512)
+15:10:46:4117189 -->Query ProgressDeptError
+2017/8/28 15:10:46 2017/8/28 15:10:46-->Query Progress Error:ERROR [HY000] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Access denied (Authorisation failed) (7512)
+15:10:46:4333470 -->Query ProgressDeptError
+15:10:46:4799928 -->Query 152EmpSum:12749
+15:10:48:8397029 -->SelectSqlServerSum:41833
+15:11:00:0541694 -->insert152_EmpClassOK: 
+15:11:00:0896229 -->Query 153EmpSum:7479
+15:11:01:2509121 -->SelectSqlServerSum:16405
+15:11:04:5406324 -->insert153_EmpClassOK: 
+2017/8/28 15:11:04 2017/8/28 15:11:04-->Query Progress Error:ERROR [HY000] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Access denied (Authorisation failed) (7512)
+15:11:04:5729277 -->Query ProgressDeptError
+2017/8/28 15:11:04 2017/8/28 15:11:04-->Query Progress Error:ERROR [HY000] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Access denied (Authorisation failed) (7512)
+15:11:04:5930667 -->Query ProgressDeptError
+15:12:14:5986785 Pause Read...
+15:12:38:9499060 Open Auto======================
+15:12:42:3430840 01s:00 InsertMySQL，10:00 InsertProgress
+15:15:11:4882893 -->Query 152EmpSum:12749
+15:15:14:4300425 -->SelectSqlServerSum:41833
+15:15:25:5353235 -->insert152_EmpClassOK: 
+15:15:34:6122583 -->Query 153EmpSum:7479
+15:15:35:7209976 -->SelectSqlServerSum:16405
+15:15:38:7125609 -->insert153_EmpClassOK: 
+15:15:38:7620147 -->Query 152EmpSum:12749
+15:15:41:0390658 -->SelectSqlServerSum:41833
+15:15:51:5800866 -->insert152_EmpClassOK: 
+15:15:51:6250193 -->Query 153EmpSum:7479
+15:15:52:7406383 -->SelectSqlServerSum:16405
+15:15:57:0463560 -->insert153_EmpClassOK: 
+15:15:57:0857812 -->Query 152EmpSum:12749
+15:15:59:3842956 -->SelectSqlServerSum:41833
+15:16:09:2259332 -->insert152_EmpClassOK: 
+15:16:09:2639153 -->Query 153EmpSum:7479
+15:16:10:4570842 -->SelectSqlServerSum:16405
+15:16:14:6045715 -->insert153_EmpClassOK: 
+15:35:33:2911148 Pause Read...
+15:36:41:5527077 01s:00 InsertMySQL，10:00 InsertProgress
+15:36:42:5783867 Pause Read...
+15:36:43:8678523 01s:00 InsertMySQL，10:00 InsertProgress
+16:09:57:4458289 Open Auto======================
+16:09:58:7391096 01s:00 InsertMySQL，10:00 InsertProgress
+16:15:17:7176001 -->Query 152EmpSum:12749
+16:15:20:6689640 -->SelectSqlServerSum:41833
+16:15:35:1533530 -->insert152_EmpClassOK: 
+16:15:44:2651891 -->Query 153EmpSum:7479
+16:15:45:3621275 -->SelectSqlServerSum:16405
+16:15:49:2641398 -->insert153_EmpClassOK: 
+16:15:49:3396130 -->Query 152EmpSum:12749
+16:15:51:6731860 -->SelectSqlServerSum:41833
+16:16:02:7970751 -->insert152_EmpClassOK: 
+16:16:02:8355272 -->Query 153EmpSum:7479
+16:16:03:9869093 -->SelectSqlServerSum:16405
+16:16:06:5242986 -->insert153_EmpClassOK: 

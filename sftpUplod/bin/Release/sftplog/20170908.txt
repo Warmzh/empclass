@@ -1,0 +1,5 @@
+﻿17:05:52:6218191 Open Auto======================
+17:06:50:1341314 -->SelectSqlServerSum:5432
+17:06:51:0160334 -->Query ProgressEMPRSum:16956
+17:06:59:6583874 -->Update153_EmployeeOK:3900
+17:06:59:7034177 -->insert153_EmployeeOK:4

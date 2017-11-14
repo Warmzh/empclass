@@ -1,0 +1,2 @@
+2017/8/25 12:54:07-->Query SqlServer Error:对象名 'KQ_RECORD_BC' 无效。
+

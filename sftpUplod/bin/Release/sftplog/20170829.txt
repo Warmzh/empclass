@@ -1,0 +1,34 @@
+10:55:51:5861302 Open Auto======================
+10:57:27:2702987 ***Query 152 testemployeeSUM:12831
+11:01:17:8024919 Open Auto======================
+11:01:25:3338010 -->Query 152EmpSum:12831
+11:02:43:5536642 Open Auto======================
+11:02:43:9101436 -->Query 152EmpSum:12831
+11:02:49:0954013 -->SelectSqlServerSum:41727
+11:03:05:6497562 Open Auto======================
+11:03:05:9946575 ***Query 152 testemployeeSUM:12831
+2017/8/29 11:03:09 2017/8/29 11:03:09-->Query Progress Error:ERROR [42S02] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Table/View/Synonym not found (7519)
+11:03:09:1668834 -->Query ProgressError
+11:03:32:6601457 Open Auto======================
+11:03:44:0786755 ***Query 152 testemployeeSUM:12831
+2017/8/29 11:07:50 2017/8/29 11:07:50-->Query Progress Error:ERROR [42S02] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Table/View/Synonym not found (7519)
+11:07:50:8807181 -->Query ProgressError
+11:08:09:0400736 Open Auto======================
+11:08:09:4627794 ***Query 152 testemployeeSUM:12831
+11:19:42:2994769 Open Auto======================
+11:19:42:6921363 ***Query 152 testemployeeSUM:12831
+2017/8/29 11:20:22 2017/8/29 11:20:07-->Query Progress Error:ERROR [42S02] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Table/View/Synonym not found (7519)
+11:20:50:7063567 -->Query ProgressError
+11:22:41:9752243 Open Auto======================
+11:22:42:2827366 ***Query 152 testemployeeSUM:12831
+11:27:45:4282613 -->SelectProgressSum:59
+11:35:53:6480577 Open Auto======================
+11:35:54:0308089 ***Query 152 testemployeeSUM:12831
+11:35:56:3298856 -->SelectProgressSum:59
+11:36:32:4886139 Open Auto======================
+11:36:32:8192624 ***Query 152 testemployeeSUM:12831
+11:36:34:9733567 -->SelectProgressSum:59
+11:36:35:0399226 ***insert152_EmpClassError,Rollback :***ERROR [42S02] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Table/View/Synonym not found (7519)
+11:37:15:6283161 Open Auto======================
+11:37:15:9980417 ***Query 152 testemployeeSUM:12831
+11:38:13:0643738 -->SelectProgressSum:59

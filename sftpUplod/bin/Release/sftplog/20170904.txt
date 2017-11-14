@@ -1,0 +1,34 @@
+14:46:32:6274917 Open Auto======================
+14:47:47:9490541 -->Query 152ClassSum:0
+14:49:36:2330194 -->Query ProgressEmpClassSum:16124
+14:54:19:1083092 -->insert152_EmpClassError,Rollback :Data too long for column 'class_no' at row 1
+14:54:51:1704155 -->Query 153ClassSum:0
+14:55:06:3895365 -->Query ProgressEmpClassSum:16124
+14:55:18:6154064 -->insert153_EmpClassError,Rollback :Data too long for column 'class_no' at row 1
+14:58:02:5873957 Open Auto======================
+14:58:05:3993918 -->Query 152ClassSum:0
+14:58:06:1405184 -->Query ProgressEmpClassSum:16124
+14:58:11:1623701 -->Update152_EmpClassOK:0
+14:58:11:1759459 -->insert152_EmpClassOK:32248
+14:58:15:7920841 -->Query 153ClassSum:32248
+14:58:16:4403584 -->Query ProgressEmpClassSum:16124
+14:58:21:6753084 -->Update153_EmpClassOK:0
+14:58:21:6863128 -->insert153_EmpClassOK:0
+15:19:15:9971519 Open Auto======================
+15:29:24:1129488 -->Query 152ClassSum:32248
+15:29:25:7140344 -->Query ProgressEmpClassSum:16124
+15:29:30:9077938 -->Update152_EmpClassOK:0
+15:29:30:9248047 -->insert152_EmpClassOK:0
+15:30:04:5813813 -->Query 153ClassSum:32248
+15:30:05:2090254 -->Query ProgressEmpClassSum:16124
+15:30:10:4507762 -->Update153_EmpClassOK:0
+15:30:10:4717907 -->insert153_EmpClassOK:0
+15:34:58:6903434 Open Auto======================
+15:44:27:5408819 -->Query 152ClassSum:0
+16:03:51:5137329 -->Query ProgressEmpClassSum:16124
+16:29:37:9874778 -->Update152_EmpClassOK:0
+16:29:38:0336369 -->insert152_EmpClassOK:32248
+16:40:14:4550399 -->Query 153ClassSum:32248
+16:40:15:9839088 -->Query ProgressEmpClassSum:16124
+16:40:21:4404184 -->Update153_EmpClassOK:0
+16:40:21:4529346 -->insert153_EmpClassOK:0

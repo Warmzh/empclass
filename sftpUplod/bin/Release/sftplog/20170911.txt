@@ -1,0 +1,25 @@
+16:09:39:1115168 Open Auto======================
+16:09:50:6429452 -->SelectSqlServerSum:8028
+16:09:52:7148918 -->Query ProgressEMPRSum:17826
+16:09:56:8979011 -->Update152_EmployeeOK:46
+16:09:56:9179125 -->insert152_EmployeeOK:499
+16:09:57:2998480 -->SelectSqlServerSum:5541
+16:09:58:2844631 -->Query ProgressEMPRSum:17826
+16:10:03:6161404 -->Update153_EmployeeOK:25
+16:10:03:6421642 -->insert153_EmployeeOK:749
+16:10:03:6971833 -->Query 152ClassSum:0
+16:10:04:4670959 -->Query ProgressEmpClassSum:18085
+16:10:08:3467179 -->Update152_EmpClassOK:0
+16:10:08:3607236 -->insert152_EmpClassOK:36170
+16:10:08:3897690 -->Query 153ClassSum:0
+16:10:09:1077286 -->Query ProgressEmpClassSum:18085
+16:10:14:6351319 -->Update153_EmpClassOK:0
+16:10:14:6531470 -->insert153_EmpClassOK:36170
+16:10:15:0121611 -->Query 152ClassSum:18085
+16:10:15:7740894 -->Query ProgressEmpClassSum:18085
+16:10:17:6118513 -->Update152_EmpClassOK:0
+16:10:17:6218584 -->insert152_EmpClassOK:0
+16:10:17:9120425 -->Query 153ClassSum:18085
+16:10:18:6623510 -->Query ProgressEmpClassSum:18085
+16:10:20:4951525 -->Update153_EmpClassOK:0
+16:10:20:5141593 -->insert153_EmpClassOK:0

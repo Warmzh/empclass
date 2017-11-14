@@ -1,0 +1,12 @@
+09:52:17:4096687 Open Auto======================
+09:52:23:5595516 Pause Read...
+09:52:57:0213300 Open Auto======================
+09:53:28:9088867 -->Query ProgressDeptSum:260
+09:54:19:1950618 -->insert111_DeptOK: 
+09:54:22:6054206 -->Query ProgressdeptSum:260
+09:54:22:7618409 -->insert112_DeptOK: 
+15:23:53:5871750 Open Auto======================
+15:24:30:3218171 -->Query ProgressDeptSum:260
+15:24:30:5602018 -->insert152_DeptOK: 
+15:24:34:6207944 -->Query ProgressdeptSum:260
+15:24:34:7125758 -->insert153_DeptOK: 

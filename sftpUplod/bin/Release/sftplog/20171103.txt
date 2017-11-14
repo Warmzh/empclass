@@ -1,0 +1,10 @@
+11:12:09:6309277 Open Auto======================
+11:12:10:2278297 -->Query 152wipecardSum:6297
+11:12:52:6928502 -->152WipToProgressOK
+11:12:53:1731733 -->Query 153wipecardSum:4458
+11:13:22:1507281 -->153WipToProgressOK
+15:11:55:0876991 Open Auto======================
+15:11:58:6752609 -->Query ProgressDeptSum:349
+15:11:58:9374354 -->insert152_DeptOK: 
+15:12:03:3505604 -->Query ProgressdeptSum:349
+15:12:03:4751431 -->insert153_DeptOK: 

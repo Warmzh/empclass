@@ -1,0 +1,20 @@
+10:24:03:1843103 Open Auto======================
+10:24:40:4146776 -->Query 112ClassSum:38773
+2017/11/2 10:24:41 2017/11/2 10:24:41-->Query Progress Error:ERROR [08001] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver]Connection refused. Verify Host Name and Port Number.
+ERROR [HY000] 
+10:24:41:3998648 -->Query ProgressEmpClassSumError
+10:27:26:8366632 Open Auto======================
+10:28:00:6325101 -->Query 112ClassSum:38773
+10:28:02:0349452 -->Query ProgressEmpClassSum:30210
+10:28:11:1556478 -->Update112_EmpClassOK:0
+10:28:11:1631531 -->insert112_EmpClassOK:0
+10:30:02:3695645 Open Auto======================
+10:30:06:8050537 -->Query 111ClassSum:38773
+10:30:08:0634276 -->Query ProgressEmpClassSum:30210
+10:30:17:3681543 -->Update111_EmpClassOK:53
+10:30:17:3836646 -->insert111_EmpClassOK:0
+10:35:53:9142823 Open Auto======================
+10:35:54:4816607 -->Query 152wipecardSum:6315
+10:36:43:1651721 -->152WipToProgressOK
+10:36:43:6529978 -->Query 153wipecardSum:4444
+10:37:13:8449444 -->153WipToProgressOK

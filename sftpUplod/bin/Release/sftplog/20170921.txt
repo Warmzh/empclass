@@ -1,0 +1,5 @@
+07:50:34:9187691 Open Auto======================
+07:50:50:3732770 -->Query 152swipecardSum:21
+07:50:51:4623921 -->152WipToProgressOK
+07:51:04:8557094 -->Query 153wipecardSum:698
+07:51:07:5166214 -->153WipToProgressOK

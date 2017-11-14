@@ -1,0 +1,18 @@
+08:12:26:5941431 Open Auto======================
+08:12:53:4175049 -->Query 152ClassSum:0
+08:13:39:9459090 -->Query ProgressEmpClassSum:16632
+08:14:47:7872952 -->Update152_EmpClassOK:0
+08:14:47:7927982 -->insert152_EmpClassOK:33264
+08:14:52:0101593 -->Query 153ClassSum:33264
+08:14:52:7094681 -->Query ProgressEmpClassSum:16632
+08:14:59:4560241 -->Update153_EmpClassOK:0
+08:14:59:4620279 -->insert153_EmpClassOK:0
+08:19:31:0728258 Open Auto======================
+08:19:34:0545109 -->Query 152ClassSum:0
+08:19:35:6941729 -->Query ProgressEmpClassSum:16632
+08:19:43:4905612 -->Update152_EmpClassOK:0
+08:19:43:5070729 -->insert152_EmpClassOK:33264
+08:19:46:8124842 -->Query 153ClassSum:33264
+08:19:47:4145061 -->Query ProgressEmpClassSum:16632
+08:19:53:6968747 -->Update153_EmpClassOK:0
+08:19:53:7088818 -->insert153_EmpClassOK:0

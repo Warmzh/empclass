@@ -1,0 +1,71 @@
+09:17:09:2968473 Open Auto======================
+09:22:28:7614314 Open Auto======================
+09:24:29:2812013 -->Query SqlServerdeptError
+09:26:42:7905306 -->Query SqlServerdeptError
+09:37:05:9999102 Open Auto======================
+09:42:59:0007874 -->Query SqlServerdeptError
+09:44:42:8521046 Open Auto======================
+10:01:05:2369516 Open Auto======================
+11:16:36:0598967 Open Auto======================
+11:16:52:0995308 -->Query SqlServerdeptError
+11:16:52:3627136 -->Query SqlServerdeptError
+11:17:38:5740575 Open Auto======================
+11:17:54:5067115 -->Query SqlServerdeptError
+11:17:54:7688944 -->Query SqlServerdeptError
+11:18:34:0134516 Open Auto======================
+11:18:49:8139032 -->Query SqlServerdeptError
+11:18:50:0800913 -->Query SqlServerdeptError
+11:19:00:5488761 Open Auto======================
+11:31:06:7376766 Open Auto======================
+11:36:40:9612771 Open Auto======================
+11:40:29:4446251 Open Auto======================
+13:49:07:4002837 Open Auto======================
+13:58:56:9546588 Open Auto======================
+14:05:30:5303434 Open Auto======================
+14:07:19:9661678 Open Auto======================
+14:12:08:9308001 Open Auto======================
+15:07:49:4716181 Open Auto======================
+15:09:50:7736131 Open Auto======================
+15:25:23:9159126 Open Auto======================
+15:25:43:8125792 -->Query ProgressDeptSum:571
+15:25:53:1110377 -->insert152_DeptOK: 
+15:26:11:7731009 -->Query ProgressdeptSum:571
+15:26:22:3113984 -->insert153_DeptOK: 
+17:18:03:4762816 Open Auto======================
+17:18:23:4648021 Open Auto======================
+2017/10/26 17:18:25 2017/10/26 17:18:25-->Query 152 Error:Unable to connect to any of the specified MySQL hosts.
+17:18:25:7260969 -->Query 152swipecardError
+2017/10/26 17:18:27 2017/10/26 17:18:27-->Query 153 Error:Unable to connect to any of the specified MySQL hosts.
+17:18:27:7778106 -->Query 153wipecardError
+17:19:16:7518200 Open Auto======================
+17:19:17:7209906 -->Query 152swipecardSum:4516
+17:19:36:5534211 -->152WipToProgressError该字符串未被识别为有效的 DateTime。有一个未知单词(从索引 0 处开始)。
+17:19:36:7300508 -->Query 153wipecardSum:4516
+17:19:36:7370562 -->153WipToProgressError该字符串未被识别为有效的 DateTime。有一个未知单词(从索引 0 处开始)。
+17:20:18:0535218 Open Auto======================
+17:21:23:0508166 Open Auto======================
+17:22:02:0212062 -->Query 152swipecardSum:0
+17:23:19:6051939 -->Query 153wipecardSum:4514
+17:25:00:3474519 -->153WipToProgressError该字符串未被识别为有效的 DateTime。有一个未知单词(从索引 0 处开始)。
+17:25:36:3061513 Open Auto======================
+17:27:11:9005139 -->Query 152swipecardSum:0
+17:28:45:2893236 -->Query 153wipecardSum:4514
+17:39:18:0651454 -->153WipToProgressError该字符串未被识别为有效的 DateTime。有一个未知单词(从索引 0 处开始)。
+17:40:33:5829105 Open Auto======================
+17:40:54:4417564 -->Query 152swipecardSum:0
+17:42:25:7674404 -->Query 153wipecardSum:4514
+17:49:40:1233180 Open Auto======================
+17:50:01:7889383 -->Query 152swipecardSum:0
+17:50:35:4719483 -->Query 153wipecardSum:4514
+17:52:42:9957356 -->153WipToProgressErrorERROR [HY000] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Invalid number string (7498)
+17:59:47:3157794 Open Auto======================
+18:00:05:4389961 -->Query 152swipecardSum:0
+18:00:17:2563100 -->Query 153wipecardSum:4514
+18:00:37:1619868 -->153WipToProgressErrorERROR [HY000] [DataDirect][ODBC Progress OpenEdge Wire Protocol driver][OPENEDGE]Invalid number string (7498)
+18:02:18:3844130 Open Auto======================
+18:02:58:9239256 -->Query 152swipecardSum:0
+18:03:33:3383234 -->Query 153wipecardSum:4514
+18:08:25:4918323 Open Auto======================
+18:09:16:1919975 -->Query 152swipecardSum:0
+18:09:32:8760146 -->Query 153wipecardSum:4514
+18:10:32:4991887 -->153WipToProgressOK

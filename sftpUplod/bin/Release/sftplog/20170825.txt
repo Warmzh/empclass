@@ -1,0 +1,61 @@
+12:49:29:0741549 Open Auto======================
+12:49:35:7272946 01:00 InsertMySQL，10:00 InsertProgress
+12:49:41:7965353 Pause Read...
+12:50:06:8816936 Open Auto======================
+12:50:53:2580081 Open Auto======================
+12:50:58:0171219 01:00 InsertMySQL，10:00 InsertProgress
+12:51:00:0055749 Pause Read...
+12:52:20:3341452 Open Auto======================
+12:52:43:0265188 Open Auto======================
+12:52:45:9625737 01:00 InsertMySQL，10:00 InsertProgress
+12:52:49:0140920 Pause Read...
+12:54:04:6313771 Open Auto======================
+12:54:05:6259597 -->Query 111EmpSum:9950
+12:54:07:2859394 -->Query SqlServerdeptError
+12:54:07:3162098 -->Query 112EmpSum:9950
+12:54:10:7872296 -->Query SqlServerdeptSum:0
+13:05:52:9074240 Open Auto======================
+13:05:53:3870669 -->Query 111EmpSum:9950
+13:05:55:2965481 -->Query SqlServerdeptSum:0
+13:05:55:3481921 -->Query 112EmpSum:9950
+13:05:57:2571992 -->Query SqlServerdeptSum:0
+13:08:11:7755851 Open Auto======================
+13:08:12:7097133 -->Query 111EmpSum:9950
+13:11:04:8648487 Open Auto======================
+13:11:05:4567503 -->Query 111EmpSum:9950
+13:17:05:9357131 Open Auto======================
+13:17:06:7092376 -->Query 111EmpSum:9950
+13:19:28:5310212 Open Auto======================
+13:19:29:0887208 -->Query 111EmpSum:12731
+13:23:29:5646094 Open Auto======================
+13:23:30:5562822 -->Query 111EmpSum:12731
+13:28:44:1139620 -->SelectSqlServerSum:52477
+13:30:52:7393997 -->insert111_EmpClassError,Rollback :Data too long for column 'class_no' at row 1
+13:37:03:7852296 Open Auto======================
+13:37:35:3416921 -->Query 111EmpSum:12731
+13:43:08:1109445 Open Auto======================
+15:10:21:7491377 Open Auto======================
+15:12:01:5067409 -->Query 111EmpSum:8816
+15:16:03:9326678 Open Auto======================
+15:16:46:5825922 Open Auto======================
+15:16:47:2942596 -->Query 152EmpSum:8816
+15:20:09:3228654 -->SelectSqlServerSum:39814
+15:21:35:3046611 -->insert152_EmpClassError,Rollback :Data too long for column 'class_no' at row 1
+15:22:14:1559066 Open Auto======================
+15:22:14:9269298 -->Query 152EmpSum:8816
+15:22:17:3178659 -->SelectSqlServerSum:39729
+15:22:17:8412704 -->insert152_EmpClassError,Rollback :Data too long for column 'class_no' at row 1
+15:22:17:8775665 -->Query 153EmpSum:8816
+15:22:19:8400465 -->SelectSqlServerSum:39729
+15:22:20:4950252 -->insert152_EmpClassOK,Rollback :Data too long for column 'class_no' at row 1
+15:23:03:4205513 01:00 InsertMySQL，10:00 InsertProgress
+15:23:04:7773360 Pause Read...
+15:23:05:6489133 01:00 InsertMySQL，10:00 InsertProgress
+15:23:06:1533437 Pause Read...
+15:23:26:7194146 Open Auto======================
+15:23:27:4394032 -->Query 152EmpSum:8816
+15:23:29:3400239 -->SelectSqlServerSum:39729
+15:23:39:3450122 -->insert152_EmpClassOK: 
+15:23:39:3811357 -->Query 153EmpSum:8816
+15:23:41:0755646 -->SelectSqlServerSum:39729
+15:25:51:4864643 -->insert153_EmpClassOK: 
